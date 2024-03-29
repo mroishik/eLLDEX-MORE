@@ -1,0 +1,322 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Varela+Round&display=swap')
+.notify{
+    align-content: center;
+}
+.nav-address p{
+    margin: 0;
+}
+.header-contacts p {
+    color: #fff;
+    margin: auto;
+    font-family: "Varela Round", sans-serif;
+}
+
+.header-contacts .header-social-icons svg{
+    background: #fff;
+    color: #393536;
+    padding: 5px;
+    border-radius: 50px;
+  
+}
+.header-social-icons {
+    align-items: center;
+   
+    align-content: center;
+}
+.navbar{
+    height: 100px;
+    background-color: white;
+}
+.container{
+    height: 50%;
+}
+.notice-button{
+    background-color: #F14902;
+    /* margin-left: 32vh; */
+    /* margin-top: 3vh; */
+    /* padding-top: initial; */
+   color: #fff;
+    border-radius: 5px;
+    align-items: center;
+
+  
+
+  }
+  .notice-button  a{
+   
+    justify-content: center;
+    margin-left: 20px;
+    color: #fff !important;
+    
+
+  }
+
+
+
+
+  /* Hero Section */
+  .first-text-re {
+    font-size: 60.8px;
+    color: #FFCA2C;
+    font-weight: bolder;
+    display: flex;
+    
+  }
+  .first-text-re a{
+    font-size: 20px;
+    color: #FFCA2C;
+    font-weight: bolder;
+    display: flex;
+    font-family: "Lato", sans-serif;
+  }
+  #changingWord {
+    transition: color 0.5s ease-in-out;
+}
+
+/* Orange color for the changing word */
+.orange {
+    color: #ff8800;
+}
+.truck {
+    height: 500px;
+    margin-right: -76px;
+  }
+  .truck img{
+    margin-right: 40px;
+    
+    height: 370px;
+    width: 428px;
+
+
+  }
+
+
+
+  /* About Us */
+  .about-img-one img {
+    border-radius: 10px;
+    width: 385px;
+    height:  256px;
+    margin-left: 19px;
+}
+
+.about-border {
+    border: 2px solid orange;
+    width: 60%;
+    margin-left: 107px;
+    height: 600px;
+   
+  
+  }
+  .about-img-two {
+    margin-bottom: 20px;
+  }
+  .about-img-two img{
+    width: 433px;
+    height:  288px;
+    
+  }
+
+  .about-img-three img{
+    height: 243px;
+    width: 365px;
+  }
+  .about-img-three{
+    margin-top: -20px;
+  }
+  .orange-background{
+    background-color: #F14902;
+    height: 38%;
+    width: 59%;
+    left: 55%;
+    top: 15%;
+    padding-top: 15px;
+    border: 4px solid white;
+    border-radius: 10px;
+    z-index: 3;
+  }
+  .del-new{
+    font-family: "Lato", sans-serif;
+    font-size: 51.7px;
+    color: white;
+    font-weight:700;
+    margin-bottom: -12px;
+  }
+  .del-des{
+  font-size: 16px;
+  font-family: "Varela Round", sans-serif;
+  color: white;
+} 
+.discover-btn {
+    width: 204.92px;
+    height: 58.39px;
+    padding: 16px 32px;
+    background-color: #f14902;
+    border: none;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+    font-size: 16px;
+  font-family: "Varela Round", sans-serif;
+  }
+  
+  .discover-btn:hover {
+    background-color: white;
+    color: #f14902;
+  }
+  .discover-btn-two {
+    width: 204.92px;
+    height: 58.39px;
+    padding: 16px 32px;
+    background-color: white;
+    border: none;
+    color: #f14902;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+    font-size: 16px;
+  font-family: "Varela Round", sans-serif;
+  }
+  
+  .discover-btn-two:hover {
+    background-color: #f14902;
+    color: white;
+  }
+
+
+  /* Partners */
+  .ner-one{
+    font-family: "Lato", sans-serif;
+    font-size: 51.2px;
+    font-weight: 600;
+    margin: 0;
+  }
+  .ner-div{
+    padding-left: 50px;
+  }
+  .ptn-logo img{
+    width: 217px;
+    height: 51px;
+  }
+  .my-3{
+    margin-top: 20px;
+  }
+  .space{
+    margin-top: 30px;
+  }
+
+
+  .notice{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(Assets/image/loading-of-cargo-airplane-2023-11-27-05-35-58-utc-1536x1024.jpg);
+   
+      
+      width: 100%;
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+     
+      
+  }
+
+  .del-main {
+    color: #F14902;
+    background-color: black;
+  }
+  .get-in-touch{
+    margin-top: 70px;
+  }
+
+  .user .card {
+    border-bottom: 4px solid #f14902; /* Orange bottom border */
+  }
+  
+  .user .card img {
+    border-radius: 10px 10px 0 0;
+  }
+  
+  /* .user .card .last-text {
+    color: #d7d004; /* Yellow text color */
+    font-family: Round, sans-serif;
+    margin-bottom: 0;
+  }
+   */
+  
+  
+  .user .card .section-description-three {
+    color: #6c757d; /* Dark gray text color */
+  }
+  
+  .user .card .first-text {
+    color: #f14902; /* Orange text color */
+    font-weight: bold;
+    font-size: 16px;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  .user .card .first-text:hover {
+    color: #ff8800; /* Lighter orange text color on hover */
+  }
+  .card-body-one{
+        /* background-image: url(Assets/worker-loading-cargo-in-storage-room-2023-11-27-04-59-46-utc.jpg); */
+        background-size: cover;
+        flex: 1 1 auto;
+        /* padding: 2rem 3rem; */
+        /* background-color: #141414; */
+        position: relative;
+  }
+  .user .card .done-text {
+    color: #f14902;
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 17px;
+}
+.d-flex-one{
+    display: -webkit-box;
+    /* margin: 10px; */
+    /* margin-left: 10px; */
+    justify-content: space-evenly;
+    padding: 10px;
+}
+.user .card .first-text {
+    color: #f14902;
+    font-weight: bold;
+    font-size: 16px;
+    text-decoration: none;
+    transition: color 0.3s;
+    margin-left: 18px;
+}
+.user .card .last-text {
+    color: #f14902;
+    font-family: "Varela Round", sans-serif;
+    margin-bottom: 0px;
+    font-size: 12.8px;
+}
+.section-heading {
+    font-family: "Lato", sans-serif;
+    font-size: 17.6px;
+    color: #FFAE21;
+    font-weight: 900;
+    padding-bottom: 20px;
+}
+.section-sub-heading {
+    font-family: Lato, sans-serif;
+    font-size: 51.7px;
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+    padding-bottom: 20px;
+}
+
+.get-in-touch {
+    background: url(Assets/imageone.jpg);
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-top: 30px;
+}
